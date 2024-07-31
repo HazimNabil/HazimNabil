@@ -7,7 +7,7 @@ Flutter developer & CS student
 Dedicated Flutter developer building engaging mobile apps. Learning and growing through hands-on projects. Focused on creating exceptional user experiences.
 
 * 🌍  I'm based in Cairo
-* 🧠  I'm learning BLoC & MVVM pattern
+* 🧠  I'm currently learning BLoC & MVVM pattern
 
 ### Skills
 
