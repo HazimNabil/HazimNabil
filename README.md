@@ -1,14 +1,14 @@
 Hi 👋 My name is Hazem Nabil
 ============================
 
-Flutter developer & CS student
+Junior Flutter Developer & Senior CS student
 ------------------------------
 
 Dedicated Flutter developer building engaging mobile apps. Learning and growing through hands-on projects. Focused on creating exceptional user experiences.
 
 * 🌍  I'm based in Cairo
+* 🧠  I'm learning Flutter
 * ✉️  You can contact me at [hazemnabil535@gmail.com](mailto:hazemnabil535@gmail.com)
-* 🧠  I'm learning Responsive & Adaptive Design
 
 ### Skills
 
