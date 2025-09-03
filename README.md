@@ -1,7 +1,7 @@
 Hi 👋 My name is Hazem Nabil
 ============================
 
-Junior Flutter Developer & Senior CS student
+Junior Flutter Developer & Fresh CS Graduate
 ------------------------------
 
 Dedicated Flutter developer building engaging mobile apps. Learning and growing through hands-on projects. Focused on creating exceptional user experiences.
